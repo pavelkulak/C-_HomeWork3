@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/HomeWork(3)/task19/bin/Debug/net7.0/task19
+/home/pavel/Рабочий стол/HomeWork(3)/task19/bin/Debug/net7.0/task19.deps.json
+/home/pavel/Рабочий стол/HomeWork(3)/task19/bin/Debug/net7.0/task19.runtimeconfig.json
+/home/pavel/Рабочий стол/HomeWork(3)/task19/bin/Debug/net7.0/task19.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task19/bin/Debug/net7.0/task19.pdb
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.AssemblyInfo.cs
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/refint/task19.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.pdb
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/task19.genruntimeconfig.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task19/obj/Debug/net7.0/ref/task19.dll
