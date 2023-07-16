@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/HomeWork(3)/task21/bin/Debug/net7.0/task21
+/home/pavel/Рабочий стол/HomeWork(3)/task21/bin/Debug/net7.0/task21.deps.json
+/home/pavel/Рабочий стол/HomeWork(3)/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/home/pavel/Рабочий стол/HomeWork(3)/task21/bin/Debug/net7.0/task21.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task21/bin/Debug/net7.0/task21.pdb
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/refint/task21.dll
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.pdb
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/home/pavel/Рабочий стол/HomeWork(3)/task21/obj/Debug/net7.0/ref/task21.dll
